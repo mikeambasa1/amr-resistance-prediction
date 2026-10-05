@@ -2,3 +2,6 @@ data/raw/
 *.fna
 *.zip
 .ipynb_checkpoints/
+data/
+__pycache__/
+*.zip
