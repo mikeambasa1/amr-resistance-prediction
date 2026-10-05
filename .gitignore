@@ -1,0 +1,4 @@
+data/raw/
+*.fna
+*.zip
+.ipynb_checkpoints/
