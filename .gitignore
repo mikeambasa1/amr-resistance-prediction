@@ -7,3 +7,4 @@ data/amr/
 logs/
 .ipynb_checkpoints/
 __pycache__/
+data/processed/*_test.csv
