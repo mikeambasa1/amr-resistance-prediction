@@ -1,7 +1,9 @@
 data/raw/
+data/genomes/
+data/amr/
 *.fna
 *.zip
+*.part
+logs/
 .ipynb_checkpoints/
-data/
 __pycache__/
-*.zip
